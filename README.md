@@ -10,32 +10,16 @@ Negative & Positive
 
 The same "Time" to place a bet
 
-Seconds, Minutes & Hours
-1 hour
-15 min
-5 min
-3 seconds
-2
 1
 0.1
 0.01
 0.001
 0.0001
-0.00001
-0.000001 - negative order books from all brokers api
-=========
-0.000001 + positive order books from all brokers api
-0.00001
 0.0001
 0.001
 0.01
 0.1
 1
-2
-3 seconds
-5 min
-15 min
-1 hour
 
 Numbers represents seconds of time VS volume of people & money placed till miliseconds.
 The Green and Red Volumes in "Combined Order Books" says you when People are Buying or Selling with more accuraty. 
